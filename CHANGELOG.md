@@ -1,5 +1,5 @@
-<a name="1.0.0-beta.5b"></a>
-### 1.0.0-beta.5b "cadmium-camel" (2014-05-14)
+<a name="1.0.0-beta.5c"></a>
+### 1.0.0-beta.5c "cadmium-camel" (2014-05-14)
 
 
 #### Bug Fixes
